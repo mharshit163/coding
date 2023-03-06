@@ -10,9 +10,9 @@ void main() {
      for(i=0; i<n; i=i+1) {
         scanf("%d", &a[i]);
      }
-
-     printf("printing array values");
      for(i=0;i<n;i=i+1){
         printf("%d", a[i]);
      }
+
+     printf("my first program");
 }
